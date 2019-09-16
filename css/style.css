@@ -1,0 +1,116 @@
+body{
+  margin: 0;
+
+}
+
+.container{
+  
+
+
+}
+.ima{
+
+}
+.head{
+
+}
+.header{
+  
+  }
+.menu ul {
+
+}
+.menu ul li{
+	display: inline-block;
+    padding: 20px;
+}
+.menu{
+	width: 50%;
+    float: right;
+    text-align: right;
+
+}
+.logo{
+	width: 50%;
+    float: left;
+}
+.menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #bbb6b6;
+}
+.header .container .logo img{
+	    padding: 20px;
+    margin-left: 0;
+}
+.banner{
+
+}
+.banner img{
+	max-width: 100%;
+    width: 100%
+}
+.text{
+	width: 90%;
+    margin: auto;
+}
+.text h2{
+	text-transform: uppercase;
+}
+.text p{
+	text-align: justify;
+}
+.open{
+	text-transform: uppercase;
+    color: gainsboro;
+}
+.title{
+	text-transform: uppercase;
+}
+.body{
+	width: 90%;
+    margin: auto;
+}
+.same{
+	width: 30%;
+    float: left;
+    padding: 20px;
+}
+.body img{
+	width: 100%;
+}
+.foot{
+	width: 50%;
+    float: left;
+    padding: 27px;
+    box-sizing: border-box;
+}
+.foot2{
+	width: 50%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+footer{
+	float: left;
+    background-color: gray;
+    width: 100%;
+}
+.terms{
+	padding: 25px;
+}
+footer ul{
+    list-style: none;
+    text-align: right;
+}
+footer ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+footer ul li a{
+    color: black;
+    text-decoration: none;
+}
+.para{
+	text-align: justify;
+}
